@@ -1,3 +1,3 @@
 ### Line from RStudio
-### Student name - Arnab Biswas (AE2306)
-### Stream - M.Sc. Agribusiness Economics
+### Student name - Arnab Biswas
+### Stream - M.Sc. Agribusiness Economics 
